@@ -5,6 +5,8 @@ A plugin to show the title of the focused window title.
 The goal of this project is to give a complete solution and WM independient window
 title plugin for the Xfce Panel.
 
+This is a fork of [xfce4-i3-window-title-plugin](https://github.com/carmelopellegrino/xfce4-i3-window-title-plugin/).
+
 ## Current supported WMs
 
 * i3wm
