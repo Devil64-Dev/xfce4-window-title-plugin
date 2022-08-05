@@ -1,0 +1,10 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Window Title Plugin
+Comment=Window Title plugin for Xfce panel
+Icon=org.kde.windowtitle
+X-XFCE-Module=windowtitle
+X-XFCE-Internal=false
+X-XFCE-Unique=false
+X-XFCE-API=2.0
